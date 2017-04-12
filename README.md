@@ -9,6 +9,7 @@
   - [Finding a Job](#finding-a-job)
   - [Interviews](#interviews)
 - [Check Yourself](#checking-yourself)
+- [Talks](#talks)
 - [Promotion](#promotion)
 
 
@@ -33,11 +34,17 @@ Guides for interviews.
 
 ## Checking yourself
 
-Check yourself before you wreck yo self.
+Check yourself before you wreck yo self. (Things you should know)
 
+- [James Maa Productivity Hacking Guide](http://www.jamesmaa.com/2012/12/02/james-maas-productivity-hacking-guide/)
 - [What every CS major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 - [12 Resolutions for grad students](http://matt.might.net/articles/grad-student-resolutions/)
 - [Googles guide to Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+
+## Talks
+
+- [Quality guide for giving talks](http://speaking.io/)
+- [SpeakerDeck - Some sample presentation slides](https://speakerdeck.com/)
 
 
 ## Promotion
