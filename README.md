@@ -1,28 +1,33 @@
 # awesome-employee [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of employee tips
+> A curated list of tips for employees.
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Getting a Job](#getting-a-job)
+- [Promotion](#promotion)
 
 
-## Section
+## Getting a Job
 
-About this section. Optional. Keep this short and focus on the list.
+Checkout these awesome lists for jobs.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [awesome-development-jobs](https://github.com/neutraltone/awesome-development-jobs)
+- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
+- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
+## Checking yourself
 
-## Another Section
+Check yourself before you wreck yo self.
 
-### Subsection
+- [What every CS major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Promotion
+
+Get yourself some more 💲💲💲
+
+- [Salary Negotiation](https://fearlesssalarynegotiation.com/)
 
 
 ## Contribute
