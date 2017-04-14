@@ -9,6 +9,7 @@
   - [Finding a Job](#finding-a-job)
   - [Interviews](#interviews)
 - [Check Yourself](#checking-yourself)
+- [Time Management](#time-management)
 - [Talks](#talks)
 - [Promotion](#promotion)
 
@@ -40,6 +41,10 @@ Check yourself before you wreck yo self. (Things you should know)
 - [What every CS major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 - [12 Resolutions for grad students](http://matt.might.net/articles/grad-student-resolutions/)
 - [Googles guide to Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+
+## Time Management
+
+- [Youtube Talk on time management](https://www.youtube.com/watch?v=oTugjssqOT0)
 
 ## Talks
 
