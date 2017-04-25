@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Other Lists](#other-lists)
 - [Getting a Job](#getting-a-job)
   - [Finding a Job](#finding-a-job)
   - [Interviews](#interviews)
@@ -13,6 +14,9 @@
 - [Talks](#talks)
 - [Promotion](#promotion)
 
+## Other Lists
+
+- [Best Websites Programmers Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/blob/master/README.md)
 
 ## Getting a Job
 
