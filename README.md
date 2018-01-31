@@ -54,7 +54,7 @@ Check yourself before you wreck yo self. (Things you should know)
 
 - [Quality guide for giving talks](http://speaking.io/)
 - [SpeakerDeck - Some sample presentation slides](https://speakerdeck.com/)
-
+- [How to refactor actual code](https://www.youtube.com/watch?v=CQyt9Vlkbis)
 
 ## Promotion
 
